@@ -1,0 +1,33 @@
+Big Money Competition,2,4
+0,Gotham City, Dark Knights
+0,Metropolis, Men of Steel
+0,Paradise Island, Wicked Wonders
+0,Central City, Speedsters
+1,Queens Bld , Websters
+1,Canadian, Wolverines
+1,Asgard City, Thunderstrikes
+1,Brooklyn, Patriots
+0,Gotham City,1,Metropolis,0
+0,Paradise Island,4,Central City,3
+0,Gotham City,1,Paradise Island,4
+0,Metropolis,2,Central City,2
+0,Metropolis,2,Paradise Island,2
+0,Gotham City,0,Central City,2
+0,Metropolis,2,Gotham City,2
+0,Central City,3,Paradise Island,4
+0,Paradise Island,1,Gotham City,4
+0,Central City,3,Metropolis,1
+0,Paradise Island,3,Metropolis,0
+0,Central City,2,Gotham City,2
+1,Queens Bld ,1,Canadian,0
+1,Asgard City,3,Brooklyn,2
+1,Queens Bld ,1,Asgard City,4
+1,Canadian,1,Brooklyn,1
+1,Canadian,1,Asgard City,0
+1,Queens Bld ,0,Brooklyn,1
+1,Canadian,0,Queens Bld ,0
+1,Brooklyn,1,Asgard City,3
+1,Asgard City,2,Queens Bld ,3
+1,Brooklyn,1,Canadian,1
+1,Asgard City,2,Canadian,0
+1,Brooklyn,2,Queens Bld ,3

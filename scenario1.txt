@@ -1,0 +1,17 @@
+Big Money Competition,1,4
+0,Gotham City, Dark Knights
+0,Metropolis, Men of Steel
+0,Paradise Island, Wicked Wonders
+0,Central City, Speedsters
+0,Gotham City,1,Metropolis,0
+0,Paradise Island,4,Central City,3
+0,Gotham City,1,Paradise Island,4
+0,Metropolis,2,Central City,2
+0,Metropolis,2,Paradise Island,2
+0,Gotham City,0,Central City,2
+0,Metropolis,2,Gotham City,2
+0,Central City,3,Paradise Island,4
+0,Paradise Island,1,Gotham City,4
+0,Central City,3,Metropolis,1
+0,Paradise Island,3,Metropolis,0
+0,Central City,2,Gotham City,2
